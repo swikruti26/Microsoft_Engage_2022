@@ -22,7 +22,7 @@ and then install the following libraries
 5. [Scikit-learn](https://scikit-learn.org/stable/)
 
 
-# Flowchart:
+## Flowchart:
 ![](flowchart.png)
 
 
