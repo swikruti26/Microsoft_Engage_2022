@@ -21,6 +21,6 @@ and then install the following libraries
 
 
 ## Flowchart:
-![](flowchart.png)
+![](new_flowchart.png)
 
 
