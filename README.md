@@ -14,9 +14,7 @@ Built using Python, focuses not only on analyzing past data and deriving useful 
 Make sure you have [Python](https://www.python.org/) installed, 
 and then install the following libraries 
 1. [Pandas](https://pandas.pydata.org/docs/getting_started/install.html) 
-'pip install pandas'
 2. [NumPy](https://numpy.org/)
-'pip install numpy'
 3. [Matplotlib](https://matplotlib.org/)
 4. [Seaborn](https://seaborn.pydata.org/)
 5. [Scikit-learn](https://scikit-learn.org/stable/)
